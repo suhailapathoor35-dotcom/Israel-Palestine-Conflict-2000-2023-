@@ -17,5 +17,5 @@ Timeline of Hostilities: A significant spike in fatalities occurred in 2014. Det
 ## Conclusion:
 This data highlights the severe human cost of this decades-long conflict. The widespread use of high-impact ammunition, such as missiles and live fire, continues to be the primary driver of the high mortality rate.
 ![image alt](https://github.com/suhailapathoor35-dotcom/Israel-Palestine-Conflict-2000-2023-/blob/48ba21d50dccdb63102323f22c64fac1d526ef78/dashboard/main1.png)
-![image alt] (https://github.com/suhailapathoor35-dotcom/Israel-Palestine-Conflict-2000-2023-/blob/48ba21d50dccdb63102323f22c64fac1d526ef78/dashboard/main2.png)
+![image alt](https://github.com/suhailapathoor35-dotcom/Israel-Palestine-Conflict-2000-2023-/blob/48ba21d50dccdb63102323f22c64fac1d526ef78/dashboard/main2.png)
 ![image alt](https://github.com/suhailapathoor35-dotcom/Israel-Palestine-Conflict-2000-2023-/blob/48ba21d50dccdb63102323f22c64fac1d526ef78/dashboard/main3.png)
